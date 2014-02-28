@@ -1,4 +1,4 @@
-My bootstrap Symfony Distrubution
+My Bootstrap Symfony Distribution
 =================================
 
 This is a Symfony Distribution I use to quickly startup projects.
